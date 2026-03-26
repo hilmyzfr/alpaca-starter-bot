@@ -14,7 +14,7 @@ cp .env.example .env
 # Add your Alpaca paper trading keys to .env (step 3 only)
 ```
 
-Free paper trading keys at https://alpaca.markets — no real money involved.
+Free paper trading keys from Alpaca Markets — no real money involved.
 
 ## Steps
 
